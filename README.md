@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (GO).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/sub-finder-v226.git
+git clone https://github.com/VarshuAi/sub-finder-v226.git
 cd sub-finder-v226
 ```
 Run the master script or compile the executable entry point.
