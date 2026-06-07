@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Audits host subdomains recursively through network maps. [Variant 226 using GO with Aurora theme]
+  name: sub-finder-v226 version: 1.0 type: Repository author: VarshuAi description: >   Audits host subdomains recursively through network maps. [Variant 226 using GO with Aurora theme] primary_tech: Go
 primary_tech: Go
 ```
 
